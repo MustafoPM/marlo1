@@ -26,7 +26,7 @@ root.render(
   
   <div className='header'>
     <nav className='header__nav-panel'>
-      <a href='#'>Услуги
+      <a href='#'>Услугивавора
         <img src={book}></img>
       </a>
       <a href='#'>Контакты
